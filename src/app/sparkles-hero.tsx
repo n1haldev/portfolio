@@ -24,7 +24,7 @@ export function MySparkles() {
                 <img src="/images/candid_edited.jpg" alt="my photo" className="w-[20vh] md:w-[40vh] rounded-full"/>
               </div>
                 <h1>
-                  Hi, I'm <span className="text-blue-800">Nihal T M</span>
+                  Hi, I&apos;m <span className="text-blue-800">Nihal T M</span>
                 </h1>
             </div>
             <br />

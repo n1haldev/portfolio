@@ -1,5 +1,4 @@
 import React from "react";
-import CardComponent from "@/components/ui/cardComponent";
 
 const ContactMe = () => {
     return (
