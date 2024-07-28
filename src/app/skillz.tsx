@@ -5,7 +5,7 @@ const Skillz = () => {
   return (
     <div className="bg-black">
       <div className="flex flex-col text-white justify-center">
-        <div className='my-10 mx-auto space-y-4'>
+        <div data-aos="fade-up" className='my-10 mx-auto space-y-4'>
             <h1 className="text-xl sm:text-2xl md:text-4xl lg:text-7xl font-bold text-center text-blue-500">My Skill Set</h1>
             <CardComponent 
             title="Frontend"

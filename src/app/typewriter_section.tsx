@@ -57,7 +57,7 @@ export function MyTypewriterEffectSmooth() {
 
   return (
     // <div className="h-[50vh] sm:h-[60vh] md:h-[70vh] lg:h-screen w-full bg-black flex flex-col items-center justify-center overflow-hidden rounded-md">
-      <div className="text-white">
+      <div className="text-white" data-aos="fade-up">
         <div className="flex flex-col items-center justify-center">
           <p className="text-neutral-600 dark:text-neutral-200 text-xl sm:text-2xl md:text-3xl lg:text-4xl">
             I am interested in

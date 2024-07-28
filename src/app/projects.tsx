@@ -51,6 +51,7 @@ const Projects = () => {
           {project_data.map((project, index) => (
             <MeteorsExample
               key={index}
+              animationType={index % 2 == 0 ? 'fade-up' : 'fade-down'}
               name={project.name}
               description={project.description}
               tech_stack={project.tech_stack}
