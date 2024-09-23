@@ -28,6 +28,7 @@ export function MySparkles() {
                 </h1>
             </div>
             <br />
+            <div></div>
             <MyTypewriterEffectSmooth />
         </div>
       </div>
