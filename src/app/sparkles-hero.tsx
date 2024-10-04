@@ -17,7 +17,7 @@ export function MySparkles() {
             particleColor="#FFFFFF"
           />
 
-          <div className="absolute inset-0 z-0 w-full h-full bg-black [mask-image:radial-gradient(circle,transparent_1%,white)]">
+          <div className="absolute inset-0 z-0 w-full h-full">
           </div>
             <div className="md:text-5xl text-3xl lg:text-7xl font-bold flex flex-col md:flex-row items-center space-x-8 justify-center text-white mt-[-50vh] md:mt-[-85vh] opacity-100 z-20">
               <div data-aos="fade-right">

@@ -70,7 +70,7 @@ export function MyTypewriterEffectSmooth() {
           </p>
           <br />
           {textData.map((item, index) => (
-            <p key={index} style={{color: item.color}} className="text-2xl sm:text-3xl md:text-4xl font-mono italic" data-aos={index % 2 == 0 ? "fade-left" : "fade-right"}>
+            <p key={index} style={{color: item.color}} className="text-md sm:text-3xl md:text-4xl font-mono italic" data-aos={index % 2 == 0 ? "fade-left" : "fade-right"}>
               {item.text}
             </p>
           ))}
